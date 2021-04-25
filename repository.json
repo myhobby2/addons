@@ -1,1 +1,5 @@
-repository.json
+{
+  "name": "Own Github add-on repository",
+  "url": "https://github.com/myhobby2/addons/new/master/mosquitto",
+  "maintainer": "Myself"
+}
